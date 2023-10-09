@@ -1,13 +1,13 @@
-#👋 Hi, I’m @DJohnJomar
-##👀 I’m interested in
+# 👋 Hi, I’m @DJohnJomar
+## 👀 I’m interested in
 - Board Games
 - Computer Games
 - Computer
 - Programming
-##🌱 I’m currently learning
-  -Web Dev: HTML, CSS, JavaScript
-##💞️ I’m looking to collaborate on ...
-##📫 How to reach me
+## 🌱 I’m currently learning
+- Web Dev: HTML, CSS, JavaScript
+## 💞️ I’m looking to collaborate on ...
+## 📫 How to reach me
 - [Facebook](https://www.facebook.com/J0hnjomar)
 
 <!---
