@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @DJohnJomar
+I am currently in my 3rd year in university and I am finding my way into the software engineering world.
 ## 👀 I’m interested in
 - Board Games
 - Computer Games
-- Computer
+- Computers
 - Programming
 ## 🌱 I’m currently learning
 - Web Dev: HTML, CSS, JavaScript
