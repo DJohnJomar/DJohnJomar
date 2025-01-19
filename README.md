@@ -17,6 +17,7 @@ I am currently in my 4th year in my university, University of Cabuyao, and I am 
 <!-- ## 💞️ I’m looking to collaborate on ... --->
 ## 📫 How to reach me
 - [Facebook](https://www.facebook.com/J0hnjomar)
+- [LinkedIn](https://www.linkedin.com/in/john-jomar-dimaunahan-a406822b9/)
 
 <!---
 DJohnJomar/DJohnJomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
