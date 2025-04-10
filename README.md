@@ -7,7 +7,7 @@ I am currently in my 4th year in my university, University of Cabuyao, and I am 
 - Programming
 ## 🌱 I’m currently learning
 - Web Dev: HTML, CSS, JavaScript
-##✨My Experiences
+## ✨My Experiences
 - Android Development:
   - I have experienced developing a mobile application during our Thesis, our app is called [CondiPlant](https://github.com/DJohnJomar/CondiPlant). It is an app that tries to detect root crop diseases by their leaves. I mainly contributed to the design and creation of the mobile application and only a little bit when it comes to the development of the AI we used.
 - Web Development:
