@@ -3,7 +3,7 @@ You can call me John, Jomar, or Jon. I'm a Fresh Computer Science graduate (2025
 <br>
 ![Jon's stats](https://github-readme-stats.vercel.app/api?username=DJohnJomar&show_icons=true&theme=highcontrast)
 
-## 📂My Experiences
+## 📂Projects
 ### Android Development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=CondiPlant&theme=highcontrast)](https://github.com/DJohnJomar/Web-Portfolio)
 
