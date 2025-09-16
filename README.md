@@ -1,5 +1,6 @@
 # 👋 Hi, I’m John Jomar
 You can call me John, Jomar, or Jon. I'm a Fresh Computer Science graduate (2025) from the University of Cabuyao, Aspiring full-stack developer passionate about building modern web applications. I am Currently learning and creating projects in JavaScript, Node.js, and web technologies
+<br>
 ![Jon's stats](https://github-readme-stats.vercel.app/api?username=DJohnJomar&show_icons=true&theme=highcontrast)
 
 ## 📂My Experiences
