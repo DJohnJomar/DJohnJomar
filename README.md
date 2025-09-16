@@ -1,23 +1,51 @@
-# 👋 Hi, I’m @DJohnJomar
-I am currently in my 4th year in my university, University of Cabuyao, and I am finding my way into the software engineering world.
-## 👀 I’m interested in
-- Board Games
-- Computer Games
-- Computers
-- Programming
-## 🌱 I’m currently learning
-- Web Dev: HTML, CSS, JavaScript
-## ✨My Experiences
-- Android Development:
-  - I have experienced developing a mobile application during our Thesis, our app is called [CondiPlant](https://github.com/DJohnJomar/CondiPlant). It is an app that tries to detect root crop diseases by their leaves. I mainly contributed to the design and creation of the mobile application and only a little bit when it comes to the development of the AI we used.
-- Web Development:
-  - I have created some basic web pages using only HTML, and CSS:
-    - [Left 4 Dead 2 Mini Wiki](https://djohnjomar.github.io/Left-4-Dead-2-Mini-Wiki/)
-    - [Sample Portfolio]()
+# 👋 Hi, I’m John Jomar
+You can call me John, Jomar, or Jon. I'm a Fresh Computer Science graduate (2025) from the University of Cabuyao, Aspiring full-stack developer passionate about building modern web applications. I am Currently learning and creating projects in JavaScript, Node.js, and web technologies
+![Jon's stats](https://github-readme-stats.vercel.app/api?username=DJohnJomar&show_icons=true&theme=highcontrast)
+
+## 📂My Experiences
+### Android Development:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=CondiPlant&theme=highcontrast)](https://github.com/DJohnJomar/Web-Portfolio)
+
+### Web Development:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=Left-4-Dead-2-Mini-Wiki&theme=highcontrast)](https://github.com/DJohnJomar/Left-4-Dead-2-Mini-Wiki)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=Web-Portfolio&theme=highcontrast)](https://github.com/DJohnJomar/Web-Portfolio)
 <!-- ## 💞️ I’m looking to collaborate on ... --->
-## 📫 How to reach me
-- [Facebook](https://www.facebook.com/J0hnjomar)
-- [LinkedIn](https://www.linkedin.com/in/john-jomar-dimaunahan-a406822b9/)
+
+
+## 🛠️Languages and Tools
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/><br>
+
+## ⚡Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJohnJomar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## 📫Reach me out
+[<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>](https://www.facebook.com/J0hnjomar)
+
+[<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/john-jomar-dimaunahan-a406822b9/) <br>
+
+## 🎲 Fun Facts
+- I love playing **board games & computer games**
+- Some of my favorite PC games are Left 4 Dead 2, Valorant, and Rimworld.
+- I have a lot of games, **80+ in Steam** and **20+ board games**
+- I'm exploring retro games too.
+- I enjoy both coffee and tea  
 
 <!---
 DJohnJomar/DJohnJomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
