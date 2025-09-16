@@ -5,7 +5,7 @@ You can call me John, Jomar, or Jon. I'm a Fresh Computer Science graduate (2025
 
 ## 📂Projects
 ### Android Development:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=CondiPlant&theme=highcontrast)](https://github.com/DJohnJomar/Web-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=CondiPlant&theme=highcontrast)](https://github.com/DJohnJomar/CondiPlant)
 
 ### Web Development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DJohnJomar&repo=Left-4-Dead-2-Mini-Wiki&theme=highcontrast)](https://github.com/DJohnJomar/Left-4-Dead-2-Mini-Wiki)
